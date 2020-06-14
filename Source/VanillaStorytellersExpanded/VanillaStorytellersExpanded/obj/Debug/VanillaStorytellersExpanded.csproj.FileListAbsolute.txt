@@ -1,0 +1,4 @@
+E:\Users\Daniel\Documents\GitHub\VanillaStorytellersExpanded\Source\VanillaStorytellersExpanded\VanillaStorytellersExpanded\obj\Debug\VanillaStorytellersExpanded.csprojAssemblyReference.cache
+E:\Users\Daniel\Documents\GitHub\VanillaStorytellersExpanded\Source\VanillaStorytellersExpanded\VanillaStorytellersExpanded\obj\Debug\VanillaStorytellersExpanded.csproj.CoreCompileInputs.cache
+E:\Users\Daniel\Documents\GitHub\VanillaStorytellersExpanded\1.1\Assemblies\VanillaStorytellersExpanded.dll
+E:\Users\Daniel\Documents\GitHub\VanillaStorytellersExpanded\Source\VanillaStorytellersExpanded\VanillaStorytellersExpanded\obj\Debug\VanillaStorytellersExpanded.dll
